@@ -22,7 +22,7 @@ String Catalog is an AI tool designed for developers looking to efficiently loca
 
 ### AI-Powered Translations
 
-Translate your app’s strings into dozens of languages in minutes, leveraging the power of ChatGPT. Choose from AI models, including GPT-4o mini, GPT-4o, GPT-5.1, GPT-5.2, or use Auto mode for convenience.
+Translate your app’s strings into dozens of languages in minutes, leveraging the power of ChatGPT. Choose from AI models, including GPT-5.4, GPT-5.4 mini, GPT-5.4 nano, or use Auto mode for convenience.
 
 ### Context-Aware Translations
 
